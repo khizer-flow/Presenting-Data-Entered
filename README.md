@@ -1,2 +1,2 @@
 # Presenting-Data-Entered
-using < iomanip > and setprecision() to show decimal points to the desired value.
+using library < iomanip > and the function setprecision() to show decimal points to the desired value.
